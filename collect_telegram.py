@@ -43,6 +43,8 @@ CHANNELS = [
     # Запорізькі
     "zap_info",        # Запоріжжя Інфо
     "5kanal_zp",       # 5 канал Запоріжжя
+	"suspilnezaporizhzhya",
+	"eto_zp",
 ]
 
 POSTS_PER_CHANNEL = 500
